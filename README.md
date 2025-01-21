@@ -1,7 +1,6 @@
 ![Ex-QUID](https://github.com/WildRavenZ/Ex-QUID/blob/master/logo.png)
 ### Project Summary
 * **Name:** Ex-QUID
-* **Description:** Ex-QUID adds to Excel the versatility of databases such as MySQL or SQL server.
 * **Current version:** 0.1.3
 * **Version date:** 01/21/2025
 * **Author:** WildRavenZ
