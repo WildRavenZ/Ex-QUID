@@ -1,4 +1,4 @@
-# Ex-QUID
+![Ex-QUID](https://github.com/WildRavenZ/Ex-QUID/blob/master/logo.png)
 ### Project Summary
 * **Name:** Ex-QUID
 * **Description:** Ex-QUID adds to Excel the versatility of databases such as MySQL or SQL server.
@@ -6,6 +6,15 @@
 * **Version date:** 01/21/2025
 * **Author:** WildRavenZ
 
+## Table of contents
+- [Description](#description)
+- [Installation](#installation)
+- [Using the Add-in](#using-the-add-in)
+- [Project status](#project-status)
+- [Contribute](#contribute)
+- [Documentation](#documentation)
+- [License](#license)
+- [Authors](#authors)
 
 ## Description
 Ex-QUID is an open source tool for Excel that connects local SQL or MySQL databases to be manipulated and queried from the Microsoft Office application. It serves as an Add-in that provides the basic functionality of other database tools but in Excel, thus creating a faster environment for reading data.
