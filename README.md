@@ -1,4 +1,4 @@
-![Ex-QUID](https://github.com/WildRavenZ/Ex-QUID/blob/master/logoname Ex-QUID.png)
+![Ex-QUID](https://github.com/WildRavenZ/Ex-QUID/blob/master/logoname-Ex-QUID.png)
 ### Project Summary
 * **Name:** Ex-QUID
 * **Current version:** 0.1.3
