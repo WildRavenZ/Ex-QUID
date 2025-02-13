@@ -16,7 +16,7 @@
 - [Authors](#authors)
 
 ## Description
-Ex-QUID is an open source tool for Excel that connects local SQL or MySQL databases to be manipulated and queried from the Microsoft Office application. It serves as an Add-in that provides the basic functionality of other database tools but in Excel, thus creating a faster environment for reading data.
+Ex-QUID (Excel Query Unique Identifier) is an open source tool for Excel that connects local SQL or MySQL databases to be manipulated and queried from the Microsoft Office application. It serves as an Add-in that provides the basic functionality of other database tools but in Excel, thus creating a faster environment for reading data.
 
 ## Installation
 You can install the Add-in in two different ways:
